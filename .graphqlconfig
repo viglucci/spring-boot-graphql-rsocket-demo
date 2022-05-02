@@ -1,0 +1,5 @@
+{
+  "name": "Sample Schema",
+  "schemaPath": "src/main/resources/graphql/schema.graphqls",
+  "extensions": {}
+}

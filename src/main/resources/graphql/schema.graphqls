@@ -1,0 +1,8 @@
+type Query {
+    greeting: String
+    echo(input: String): Echo
+}
+
+type Echo {
+    message: String
+}
